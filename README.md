@@ -1,12 +1,20 @@
 # jackin
 
-autocriptogram resolver
+## Random utils
+
+### Autocriptogram resolver
 
 http://quipqiup.com/
 
-bruteforce
+### Bruteforce
 
 https://github.com/lanjelot/patator
 
-infectpe
+### Infectpe
 https://github.com/secrary/InfectPE
+
+### Static Code Analisys
+https://github.com/python-security/pyt
+```
+aa
+```

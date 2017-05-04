@@ -20,3 +20,9 @@ aa
 ```
 ### Infoga - Email Information Gathering
 https://github.com/m4ll0k/Infoga
+
+### Be Root
+https://github.com/AlessandroZ/BeRoot
+```
+Tool for get root in windows systems
+```
